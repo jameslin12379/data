@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9c1d917-2c45-41b6-95df-09e5b8faf2f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dump20190327/.idea/Dump20190327.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dump20190327/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dump20190327/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dump20190327/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dump20190327/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dump20190327/hospital_addresses.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dump20190327/hospital_doctors.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dump20190327/hospital_genders.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dump20190327/hospital_insurances.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dump20190327/hospital_medications.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dump20190327/hospital_patients.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dump20190327/hospital_procedures.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dump20190327/hospital_visits.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dump20190327/hospital_visitsmedications.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Dump20190327/hospital_visitsprocedures.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../automate.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../smallbusiness/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -115,7 +100,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/school_teacherscourses.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
+            <state relative-caret-position="350">
               <caret line="35" column="72" selection-start-line="35" selection-start-column="72" selection-end-line="35" selection-end-column="72" />
             </state>
           </provider>
@@ -197,12 +182,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553705621390</updated>
-      <workItem from="1553705622791" duration="202000" />
+      <workItem from="1553705622791" duration="780000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="202000" />
+    <option name="totallyTimeSpent" value="780000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1346" height="640" extended-state="0" />
@@ -303,7 +288,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/school_teacherscourses.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
+        <state relative-caret-position="350">
           <caret line="35" column="72" selection-start-line="35" selection-start-column="72" selection-end-line="35" selection-end-column="72" />
         </state>
       </provider>
