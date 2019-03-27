@@ -3,7 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="6982ec8a-8ddc-4c2e-920e-4d4d973deb74" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../school/Dump20190327 (1)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../school/Dump20190327 (1)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/automate.js" beforeDir="false" afterPath="$PROJECT_DIR$/automate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_addresses.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_addresses.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_customers.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_customers.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_customersstaffs.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_customersstaffs.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_customersstaffsinventories.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_customersstaffsinventories.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_genders.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_genders.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_inventories.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_inventories.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_manufacturers.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_manufacturers.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_staffs.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_staffs.sql" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,7 +23,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/automate.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="381">
@@ -26,73 +33,73 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/smallbusiness_addresses.sql">
+        <entry file="file://$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_addresses.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="320">
               <caret line="35" column="72" selection-start-line="35" selection-start-column="72" selection-end-line="35" selection-end-column="72" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/smallbusiness_customers.sql">
+        <entry file="file://$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_customers.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
+            <state relative-caret-position="393">
               <caret line="41" column="72" selection-start-line="41" selection-start-column="72" selection-end-line="41" selection-end-column="72" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/smallbusiness_customersstaffs.sql">
+        <entry file="file://$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_customersstaffs.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
+            <state relative-caret-position="310">
               <caret line="35" column="72" selection-start-line="35" selection-start-column="72" selection-end-line="35" selection-end-column="72" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/smallbusiness_customersstaffsinventories.sql">
+        <entry file="file://$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_customersstaffsinventories.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="35" column="53" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/smallbusiness_inventories.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
+            <state relative-caret-position="307">
               <caret line="35" column="72" selection-start-line="35" selection-start-column="72" selection-end-line="35" selection-end-column="72" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/smallbusiness_manufacturers.sql">
+        <entry file="file://$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_genders.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
+            <state relative-caret-position="346">
+              <caret line="30" column="70" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_inventories.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="35" column="72" selection-start-line="35" selection-start-column="72" selection-end-line="35" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_manufacturers.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
               <caret line="33" column="70" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/smallbusiness_staffs.sql">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_staffs.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="41" column="72" selection-start-line="41" selection-start-column="72" selection-end-line="41" selection-end-column="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/smallbusiness_genders.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="30" column="70" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
+            <state relative-caret-position="369">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
         </entry>
@@ -114,6 +121,14 @@
         <option value="$PROJECT_DIR$/Dump20190327 (2)/smallbusiness_manufacturers.sql" />
         <option value="$PROJECT_DIR$/Dump20190327 (2)/smallbusiness_staffs.sql" />
         <option value="$PROJECT_DIR$/automate.js" />
+        <option value="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_addresses.sql" />
+        <option value="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_customers.sql" />
+        <option value="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_customersstaffs.sql" />
+        <option value="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_customersstaffsinventories.sql" />
+        <option value="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_genders.sql" />
+        <option value="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_inventories.sql" />
+        <option value="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_manufacturers.sql" />
+        <option value="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_staffs.sql" />
       </list>
     </option>
   </component>
@@ -139,7 +154,7 @@
             <path>
               <item name="smallbusiness" type="b2602c69:ProjectViewProjectNode" />
               <item name="smallbusiness" type="462c0819:PsiDirectoryNode" />
-              <item name="Dump20190327 (2)" type="462c0819:PsiDirectoryNode" />
+              <item name="Dump20190327 (3)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,12 +191,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553715662073</updated>
-      <workItem from="1553715663512" duration="1917000" />
+      <workItem from="1553715663512" duration="2124000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1917000" />
+    <option name="totallyTimeSpent" value="2124000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="16" y="23" width="1346" height="640" extended-state="0" />
@@ -270,6 +285,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
           <caret line="206" column="35" selection-start-line="206" selection-start-column="35" selection-end-line="206" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_addresses.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="35" column="72" selection-start-line="35" selection-start-column="72" selection-end-line="35" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_customers.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="41" column="72" selection-start-line="41" selection-start-column="72" selection-end-line="41" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_customersstaffs.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="35" column="72" selection-start-line="35" selection-start-column="72" selection-end-line="35" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_customersstaffsinventories.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="35" column="72" selection-start-line="35" selection-start-column="72" selection-end-line="35" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_genders.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="30" column="70" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_inventories.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="35" column="72" selection-start-line="35" selection-start-column="72" selection-end-line="35" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_manufacturers.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="33" column="70" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_staffs.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>

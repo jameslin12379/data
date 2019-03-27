@@ -3,7 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="a9c1d917-2c45-41b6-95df-09e5b8faf2f7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../smallbusiness/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../smallbusiness/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../smallbusiness/automate.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../smallbusiness/automate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../smallbusiness/Dump20190327 (3)/smallbusiness_addresses.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../smallbusiness/Dump20190327 (3)/smallbusiness_addresses.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../smallbusiness/Dump20190327 (3)/smallbusiness_customers.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../smallbusiness/Dump20190327 (3)/smallbusiness_customers.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../smallbusiness/Dump20190327 (3)/smallbusiness_customersstaffs.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../smallbusiness/Dump20190327 (3)/smallbusiness_customersstaffs.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../smallbusiness/Dump20190327 (3)/smallbusiness_customersstaffsinventories.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../smallbusiness/Dump20190327 (3)/smallbusiness_customersstaffsinventories.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../smallbusiness/Dump20190327 (3)/smallbusiness_genders.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../smallbusiness/Dump20190327 (3)/smallbusiness_genders.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../smallbusiness/Dump20190327 (3)/smallbusiness_inventories.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../smallbusiness/Dump20190327 (3)/smallbusiness_inventories.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../smallbusiness/Dump20190327 (3)/smallbusiness_manufacturers.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../smallbusiness/Dump20190327 (3)/smallbusiness_manufacturers.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../smallbusiness/Dump20190327 (3)/smallbusiness_staffs.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../smallbusiness/Dump20190327 (3)/smallbusiness_staffs.sql" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />

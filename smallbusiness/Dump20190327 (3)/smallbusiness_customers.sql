@@ -39,7 +39,7 @@ CREATE TABLE `customers` (
   KEY `customersaddressfk` (`address_id`),
   CONSTRAINT `customersaddressfk` FOREIGN KEY (`address_id`) REFERENCES `addresses` (`id`),
   CONSTRAINT `customersgenderfk` FOREIGN KEY (`gender_id`) REFERENCES `genders` (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=101 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=101 CHARSET=utf8 COLLATE=utf8_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --

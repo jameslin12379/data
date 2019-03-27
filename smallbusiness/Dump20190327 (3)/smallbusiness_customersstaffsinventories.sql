@@ -33,7 +33,7 @@ CREATE TABLE `customersstaffsinventories` (
   KEY `inventoriesfk` (`inventories_id`),
   CONSTRAINT `customersstaffsinventories_ibfk_1` FOREIGN KEY (`customersstaffs_id`) REFERENCES `customersstaffs` (`id`),
   CONSTRAINT `customersstaffsinventories_ibfk_2` FOREIGN KEY (`inventories_id`) REFERENCES `inventories` (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=101 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=101 CHARSET=utf8 COLLATE=utf8_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
