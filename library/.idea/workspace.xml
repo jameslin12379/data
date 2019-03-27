@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9c1d917-2c45-41b6-95df-09e5b8faf2f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../library/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../smallbusiness/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../smallbusiness/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fe4455c3-bf47-486e-8318-1e28cf453148" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../school/Dump20190327 (1)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../school/Dump20190327 (1)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smallbusiness/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../smallbusiness/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,91 +18,82 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/school_attendances.sql">
+        <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/library_addresses.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="32" column="72" selection-start-line="32" selection-start-column="72" selection-end-line="32" selection-end-column="72" />
+            <state relative-caret-position="368">
+              <caret line="35" column="72" selection-start-line="35" selection-start-column="72" selection-end-line="35" selection-end-column="72" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/school_courses.sql">
+        <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/library_authors.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="40" column="72" selection-start-line="40" selection-start-column="72" selection-end-line="40" selection-end-column="72" />
+            <state relative-caret-position="268">
+              <caret line="30" column="72" selection-start-line="30" selection-start-column="72" selection-end-line="30" selection-end-column="72" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/school_departments.sql">
+        <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/library_books.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="34" column="72" selection-start-line="34" selection-start-column="72" selection-end-line="34" selection-end-column="72" />
+            <state relative-caret-position="336">
+              <caret line="42" column="72" selection-start-line="42" selection-start-column="72" selection-end-line="42" selection-end-column="72" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/school_genders.sql">
+        <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/library_bookslenders.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
+            <state relative-caret-position="365">
+              <caret line="38" column="72" selection-start-line="38" selection-start-column="72" selection-end-line="38" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/library_categories.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="31" column="72" selection-start-line="31" selection-start-column="72" selection-end-line="31" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/library_genders.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
               <caret line="30" column="70" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/school_rooms.sql">
+        <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/library_lenders.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="30" column="70" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/school_sections.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="32" column="70" selection-start-line="32" selection-start-column="70" selection-end-line="32" selection-end-column="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/school_students.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
+            <state relative-caret-position="384">
               <caret line="41" column="72" selection-start-line="41" selection-start-column="72" selection-end-line="41" selection-end-column="72" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/school_studentscourses.sql">
+        <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/library_publishers.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="36" column="72" selection-start-line="36" selection-start-column="72" selection-end-line="36" selection-end-column="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/school_teachers.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="41" column="72" selection-start-line="41" selection-start-column="72" selection-end-line="41" selection-end-column="72" />
+            <state relative-caret-position="205">
+              <caret line="28" column="72" selection-start-line="28" selection-start-column="72" selection-end-line="28" selection-end-column="72" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/school_teacherscourses.sql">
+        <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/library_staffs.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="35" column="72" selection-start-line="35" selection-start-column="72" selection-end-line="35" selection-end-column="72" />
+            <state relative-caret-position="312">
+              <caret line="41" column="72" selection-start-line="41" selection-start-column="72" selection-end-line="41" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -110,28 +101,26 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/school_addresses.sql" />
-        <option value="$PROJECT_DIR$/school_attendances.sql" />
-        <option value="$PROJECT_DIR$/school_courses.sql" />
-        <option value="$PROJECT_DIR$/school_departments.sql" />
-        <option value="$PROJECT_DIR$/school_genders.sql" />
-        <option value="$PROJECT_DIR$/school_rooms.sql" />
-        <option value="$PROJECT_DIR$/school_sections.sql" />
-        <option value="$PROJECT_DIR$/school_students.sql" />
-        <option value="$PROJECT_DIR$/school_studentscourses.sql" />
-        <option value="$PROJECT_DIR$/school_teachers.sql" />
-        <option value="$PROJECT_DIR$/school_teacherscourses.sql" />
+        <option value="$PROJECT_DIR$/Dump20190327 (2)/library_addresses.sql" />
+        <option value="$PROJECT_DIR$/Dump20190327 (2)/library_authors.sql" />
+        <option value="$PROJECT_DIR$/Dump20190327 (2)/library_books.sql" />
+        <option value="$PROJECT_DIR$/Dump20190327 (2)/library_bookslenders.sql" />
+        <option value="$PROJECT_DIR$/Dump20190327 (2)/library_categories.sql" />
+        <option value="$PROJECT_DIR$/Dump20190327 (2)/library_genders.sql" />
+        <option value="$PROJECT_DIR$/Dump20190327 (2)/library_lenders.sql" />
+        <option value="$PROJECT_DIR$/Dump20190327 (2)/library_publishers.sql" />
+        <option value="$PROJECT_DIR$/Dump20190327 (2)/library_staffs.sql" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="43" />
+    <option name="x" value="16" />
+    <option name="y" value="23" />
     <option name="width" value="1346" />
     <option name="height" value="640" />
   </component>
@@ -146,8 +135,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="Dump20190327 (1)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Dump20190327 (1)" type="462c0819:PsiDirectoryNode" />
+              <item name="library" type="b2602c69:ProjectViewProjectNode" />
+              <item name="library" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="library" type="b2602c69:ProjectViewProjectNode" />
+              <item name="library" type="462c0819:PsiDirectoryNode" />
+              <item name="Dump20190327 (2)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -178,20 +172,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a9c1d917-2c45-41b6-95df-09e5b8faf2f7" name="Default Changelist" comment="" />
-      <created>1553705621390</created>
+      <changelist id="fe4455c3-bf47-486e-8318-1e28cf453148" name="Default Changelist" comment="" />
+      <created>1553728633449</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1553705621390</updated>
-      <workItem from="1553705622791" duration="780000" />
+      <updated>1553728633449</updated>
+      <workItem from="1553728634854" duration="70000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="780000" />
+    <option name="totallyTimeSpent" value="70000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="43" width="1346" height="640" extended-state="0" />
+    <frame x="16" y="23" width="1346" height="640" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -217,80 +211,66 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/school_addresses.sql">
+    <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/library_addresses.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
+        <state relative-caret-position="368">
           <caret line="35" column="72" selection-start-line="35" selection-start-column="72" selection-end-line="35" selection-end-column="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/school_attendances.sql">
+    <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/library_authors.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="32" column="72" selection-start-line="32" selection-start-column="72" selection-end-line="32" selection-end-column="72" />
+        <state relative-caret-position="268">
+          <caret line="30" column="72" selection-start-line="30" selection-start-column="72" selection-end-line="30" selection-end-column="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/school_courses.sql">
+    <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/library_books.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="40" column="72" selection-start-line="40" selection-start-column="72" selection-end-line="40" selection-end-column="72" />
+        <state relative-caret-position="336">
+          <caret line="42" column="72" selection-start-line="42" selection-start-column="72" selection-end-line="42" selection-end-column="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/school_departments.sql">
+    <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/library_bookslenders.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="34" column="72" selection-start-line="34" selection-start-column="72" selection-end-line="34" selection-end-column="72" />
+        <state relative-caret-position="365">
+          <caret line="38" column="72" selection-start-line="38" selection-start-column="72" selection-end-line="38" selection-end-column="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/school_genders.sql">
+    <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/library_categories.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
+        <state relative-caret-position="352">
+          <caret line="31" column="72" selection-start-line="31" selection-start-column="72" selection-end-line="31" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/library_genders.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
           <caret line="30" column="70" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/school_rooms.sql">
+    <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/library_lenders.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="30" column="70" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/school_sections.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="32" column="70" selection-start-line="32" selection-start-column="70" selection-end-line="32" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/school_students.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
+        <state relative-caret-position="384">
           <caret line="41" column="72" selection-start-line="41" selection-start-column="72" selection-end-line="41" selection-end-column="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/school_studentscourses.sql">
+    <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/library_publishers.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="36" column="72" selection-start-line="36" selection-start-column="72" selection-end-line="36" selection-end-column="72" />
+        <state relative-caret-position="205">
+          <caret line="28" column="72" selection-start-line="28" selection-start-column="72" selection-end-line="28" selection-end-column="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/school_teachers.sql">
+    <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/library_staffs.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
+        <state relative-caret-position="312">
           <caret line="41" column="72" selection-start-line="41" selection-start-column="72" selection-end-line="41" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/school_teacherscourses.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="35" column="72" selection-start-line="35" selection-start-column="72" selection-end-line="35" selection-end-column="72" />
         </state>
       </provider>
     </entry>

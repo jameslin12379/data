@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6982ec8a-8ddc-4c2e-920e-4d4d973deb74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../library/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../school/Dump20190327 (1)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../school/Dump20190327 (1)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_addresses.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_addresses.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_customers.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_customers.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_customersstaffs.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_customersstaffs.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_customersstaffsinventories.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_customersstaffsinventories.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_genders.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_genders.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_inventories.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_inventories.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_manufacturers.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_manufacturers.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_staffs.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_staffs.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -98,8 +92,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_staffs.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="339">
+              <caret line="41" column="72" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -191,12 +185,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553715662073</updated>
-      <workItem from="1553715663512" duration="2124000" />
+      <workItem from="1553715663512" duration="2657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2124000" />
+    <option name="totallyTimeSpent" value="2657000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="16" y="23" width="1346" height="640" extended-state="0" />
@@ -339,8 +333,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Dump20190327 (3)/smallbusiness_staffs.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="339">
+          <caret line="41" column="72" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="72" />
         </state>
       </provider>
     </entry>
