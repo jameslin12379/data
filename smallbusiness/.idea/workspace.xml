@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6982ec8a-8ddc-4c2e-920e-4d4d973deb74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../school/Dump20190327 (1)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../school/Dump20190327 (1)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automate.js" beforeDir="false" afterPath="$PROJECT_DIR$/automate.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/automate.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2310">
-              <caret line="154" column="67" selection-start-line="154" selection-start-column="67" selection-end-line="154" selection-end-column="67" />
+            <state relative-caret-position="381">
+              <caret line="206" column="35" selection-start-line="206" selection-start-column="35" selection-end-line="206" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -79,10 +79,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/smallbusiness_staffs.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
+            <state relative-caret-position="391">
               <caret line="41" column="72" selection-start-line="41" selection-start-column="72" selection-end-line="41" selection-end-column="72" />
             </state>
           </provider>
@@ -105,7 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/automate.js" />
         <option value="$PROJECT_DIR$/Dump20190327 (2)/smallbusiness_addresses.sql" />
         <option value="$PROJECT_DIR$/Dump20190327 (2)/smallbusiness_customers.sql" />
         <option value="$PROJECT_DIR$/Dump20190327 (2)/smallbusiness_customersstaffs.sql" />
@@ -114,6 +113,7 @@
         <option value="$PROJECT_DIR$/Dump20190327 (2)/smallbusiness_inventories.sql" />
         <option value="$PROJECT_DIR$/Dump20190327 (2)/smallbusiness_manufacturers.sql" />
         <option value="$PROJECT_DIR$/Dump20190327 (2)/smallbusiness_staffs.sql" />
+        <option value="$PROJECT_DIR$/automate.js" />
       </list>
     </option>
   </component>
@@ -176,12 +176,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553715662073</updated>
-      <workItem from="1553715663512" duration="1629000" />
+      <workItem from="1553715663512" duration="1917000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1629000" />
+    <option name="totallyTimeSpent" value="1917000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="16" y="23" width="1346" height="640" extended-state="0" />
@@ -210,13 +210,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/automate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2310">
-          <caret line="154" column="67" selection-start-line="154" selection-start-column="67" selection-end-line="154" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/smallbusiness_addresses.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -268,8 +261,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Dump20190327 (2)/smallbusiness_staffs.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="391">
           <caret line="41" column="72" selection-start-line="41" selection-start-column="72" selection-end-line="41" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/automate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="206" column="35" selection-start-line="206" selection-start-column="35" selection-end-line="206" selection-end-column="35" />
         </state>
       </provider>
     </entry>

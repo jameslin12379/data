@@ -163,15 +163,14 @@ function get100customersstaffs(){
     });
 }
 
-function get100studentscourses(){
+function get100customersstaffsinventories(){
     let rows = [];
     for (let i = 0; i < 100; i++) {
-        var grade = Math.floor(Math.random() * (100 - 1 + 1) + 1);
-        var studentId = Math.floor(Math.random() * (100 - 1 + 1) + 1);
-        var courseId = Math.floor(Math.random() * (100 - 1 + 1) + 1);
-        rows.push([grade, studentId, courseId]);
+        var customersstaffsId = Math.floor(Math.random() * (100 - 1 + 1) + 1);
+        var inventoriesId = Math.floor(Math.random() * (100 - 1 + 1) + 1);
+        rows.push([customersstaffsId, inventoriesId]);
     }
-    connection.query('INSERT INTO studentscourses (grade, student_id, course_id) VALUES ?', [rows], function(error, results, fields) {
+    connection.query('INSERT INTO customersstaffsinventories (customersstaffs_id, inventories_id) VALUES ?', [rows], function(error, results, fields) {
         if (error) throw error;
         console.log('saved');
         connection.end();
@@ -200,10 +199,11 @@ function get100teacherscourses(){
 // get100departments();
 // get100staffs();
 // get100customersstaffs();
-get100inventories();
+// get100inventories();
 // get100courses();
 // get100visitsprocedures();
 // get100studentscourses();
 // get100teacherscourses();
+get100customersstaffsinventories();
 
 

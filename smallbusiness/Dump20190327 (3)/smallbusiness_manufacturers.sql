@@ -16,33 +16,32 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
--- Table structure for table `customersstaffsinventories`
+-- Table structure for table `manufacturers`
 --
 
-DROP TABLE IF EXISTS `customersstaffsinventories`;
+DROP TABLE IF EXISTS `manufacturers`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
  SET character_set_client = utf8mb4 ;
-CREATE TABLE `customersstaffsinventories` (
+CREATE TABLE `manufacturers` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(100) NOT NULL,
+  `contact_number` varchar(10) NOT NULL,
+  `contact_person_first_name` varchar(100) NOT NULL,
+  `contact_person_last_name` varchar(100) NOT NULL,
   `date_created` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
   `date_edited` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
-  `customersstaffs_id` int(11) NOT NULL,
-  `inventories_id` int(11) NOT NULL,
-  PRIMARY KEY (`id`),
-  KEY `customersstaffsfk` (`customersstaffs_id`),
-  KEY `inventoriesfk` (`inventories_id`),
-  CONSTRAINT `customersstaffsinventories_ibfk_1` FOREIGN KEY (`customersstaffs_id`) REFERENCES `customersstaffs` (`id`),
-  CONSTRAINT `customersstaffsinventories_ibfk_2` FOREIGN KEY (`inventories_id`) REFERENCES `inventories` (`id`)
-) ENGINE=InnoDB CHARSET=utf8 COLLATE=utf8_general_ci;
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Dumping data for table `customersstaffsinventories`
+-- Dumping data for table `manufacturers`
 --
 
-LOCK TABLES `customersstaffsinventories` WRITE;
-/*!40000 ALTER TABLE `customersstaffsinventories` DISABLE KEYS */;
-/*!40000 ALTER TABLE `customersstaffsinventories` ENABLE KEYS */;
+LOCK TABLES `manufacturers` WRITE;
+/*!40000 ALTER TABLE `manufacturers` DISABLE KEYS */;
+INSERT INTO `manufacturers` VALUES (1,'manu1','7383738373','bob','lee','2019-03-27 20:06:28','2019-03-27 20:06:28'),(2,'manu2','3738283883','kevin','lin','2019-03-27 20:06:28','2019-03-27 20:06:28');
+/*!40000 ALTER TABLE `manufacturers` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
@@ -54,4 +53,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2019-03-27 16:09:50
+-- Dump completed on 2019-03-27 16:19:39
